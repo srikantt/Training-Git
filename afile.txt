@@ -1,3 +1,1 @@
-Line number 1
-
-line number 2
+entered thrid line
